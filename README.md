@@ -1,6 +1,6 @@
 ## Welcome to My Personal Pages
 
-<img src='https://img-blog.csdnimg.cn/20191002195757731.jpg' align='right' style=' width:300px;height:100 px'/>
+<img src='https://img-blog.csdnimg.cn/20191002195757731.jpg' align='right' style=' width:150 px;height:50 px'/>
 
 
 ## Education
