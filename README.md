@@ -17,14 +17,11 @@
     
 #### 2018.10 - 2019.02   &emsp; 河海大学 Congniton and Robtics Lab 基金项目
 
-跟随姚潇老师参与基金项目，研究机器学习方向，在阅读相关英文文献后提出基于CNN的姿态识别优化算法，即在RELU函数
-    
-的输入处引入稀疏项， 提高模型收敛速度，并以第一作者发表会议论文，受理相关发明专利。
+跟随姚潇老师参与基金项目，研究机器学习方向，在阅读相关英文文献后提出基于CNN的姿态识别优化算法，即在RELU函数的输入处引入稀疏项， 提高模型收敛速度，并以第一作者发表会议论文，受理相关发明专利。
     
 #### 2019.04 - 2019.07   &emsp;基于计算机视觉的辅助驾驶系统
 
-负责开发基于计算机视觉的辅助驾驶系统，参与车尾、红绿灯识别，完成语音播报功能，硬件以及算法的嵌入，受理相关发
-明专利。 
+负责开发基于计算机视觉的辅助驾驶系统，参与车尾、红绿灯识别，完成语音播报功能，硬件以及算法的嵌入，受理相关发明专利。 
     
 ### 研究成果
 
@@ -48,4 +45,4 @@ Hao Su, Yujie Qian and **Yuan Zhang**, **Virtual void-based marine organism prot
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out my phone [18351209291](https://help.github.com/categories/github-pages-basics/) or e-mail [gump_well_done@163.com](https://github.com/contact) .
