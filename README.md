@@ -1,6 +1,6 @@
 # Introdction on myself
 
-<img src='https://img-blog.csdnimg.cn/20191002195757731.jpg' align='right' style=' width:1% '/>
+<img src='https://img-blog.csdnimg.cn/20191002195757731.jpg' align='right' style=' width:20% '/>
 
 
 ## Education
