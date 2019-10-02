@@ -1,12 +1,15 @@
 # Introdction on myself
 
-<img src='https://img-blog.csdnimg.cn/20191002195757731.jpg' align='right' style=' width:20% '/>
 
 
 ## Education
 
+<img src='https://img-blog.csdnimg.cn/20191002195757731.jpg' align='right' style=' width:20% '/>
+
 #### 2013-2016  &emsp;江苏省淮阴中学
-#### 2016-2020  &emsp;河海大学学士
+
+#### 2016-2020  &emsp;河海大学
+
 #### 至&emsp;&emsp;&emsp;今  &emsp;推免至北京大学软件与微电子学院
 
 ## Scientific research experience
