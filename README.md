@@ -1,8 +1,6 @@
 ## Welcome to My Personal Pages
 
-You can use the [editor on GitHub](https://github.com/gump-well-done/github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 ### 教育经历
@@ -31,16 +29,22 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 研究成果
 
 
-1.国家发明专利   （受理）                一种基于卷积神经网络的人体姿态识别方法 （专利号：201910481323.X，第1发明人） 基于Haar-Like特征提取算法与灰度值差异分析的辅助驾驶方法 （专利号：201910734064.7，第2发明人） 会议论文  （发表） Improvement of Pose Recognition by Sparse Regularized Convolutional Neural Network  IEEE RCAR  (第一作者) Virtual void-based marine organism protection routing protocol for underwater WSNs  VMOPR （第三作者） ode block
+#### 国家发明专利   
 
+一种基于卷积神经网络的人体姿态识别方法 （专利号：201910481323.X，第1发明人） 
 
+基于Haar-Like特征提取算法与灰度值差异分析的辅助驾驶方法 （专利号：201910734064.7，第2发明人） 
 
+基于深浅层自相关融合的CNN人脸表情特征点定位方法 （专利号：201910720503.9，第2发明人）
 
+一种基于智能调度算法的会议室管理系统和方法 （专利号：201910554699.9，第4发明人） 
 
+#### 论文 
 
-### Jekyll Themes
+**Yuan Zhang**, Xiao Yao and Zhongli Wang, **Improvement of Pose Recognition by Sparse Regularized Convolutional Neural Network**, IEEE International Conference on Real-time Computing and Robotics, pp. 248 - 251, Aug 2019.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gump-well-done/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Hao Su, Yujie Qian and **Yuan Zhang**, **Virtual void-based marine organism protection routing protocol for underwater WSNs**,  3rd International Conference on Data Mining, Communications and  Information Technology, pp. 65 - 72, May 2019.
+
 
 ### Support or Contact
 
