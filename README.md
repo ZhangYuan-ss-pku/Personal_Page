@@ -45,6 +45,22 @@
 
 Hao Su, Yujie Qian and **Yuan Zhang**, **Virtual void-based marine organism protection routing protocol for underwater WSNs**,  3rd International Conference on Data Mining, Communications and  Information Technology, pp. 65 - 72, May 2019.
 
+## Social Work and Practice
+
+
+2016.10 - 2017.06   &emsp;院团委组织部干事；青协外联部干事
+
+2017.06 - 2018.06   &emsp;院团委组织部副部长
+
+2018.06 - 2019.06   &emsp;党员成长中心副秘书长
+
+2019.06 - 2020.06   &emsp;党员成长中心副主任
+
+2017.07 - 2017.07   &emsp;陕西省安康市石泉县支教 
+
+2018.08 - 2018.08   &emsp;韩国朝鲜大学访学项目
+
+2018.10 - 2018.10   &emsp;江苏省运动会电子裁判 
 
 
 ## Honor & Awards
