@@ -9,7 +9,6 @@
 
 #### 2020-2022  &emsp;北京大学&emsp;软件与微电子学院
 
-###### &emsp;
 
 ## Scientific Research Experience
 
@@ -78,4 +77,4 @@ Hao Su, Yujie Qian and **Yuan Zhang**, **Virtual void-based marine organism prot
 
 ### Contact
 
-Check out my phone [18351209291](https://help.github.com/categories/github-pages-basics/) or e-mail [gump_well_done@163.com](https://github.com/contact) .
+Check out my e-mail :gump_well_done@163.com.
